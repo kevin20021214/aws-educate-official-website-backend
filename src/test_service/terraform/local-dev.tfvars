@@ -1,0 +1,6 @@
+aws_region                                    = "us-west-2"
+environment                                   = "local-dev"
+service_underscore                            = "test_service"
+service_hyphen                                = "test-service"
+docker_host                                   = "unix:///Users/chungchihhan/.docker/run/docker.sock"
+lambda_architecture                           = "arm64"
