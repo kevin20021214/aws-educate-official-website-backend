@@ -1,0 +1,20 @@
+{
+    "status": "Draft",
+    "schedule": {
+      "schedule_status": "Not_Yet",
+      "show_time": "2025-04-13T09:00:00Z"
+    },
+    "content": {
+      "cover": "https://example.com/cover.jpg",
+      "title": "測試活動",
+      "is_cancelled": false,
+      "register_deadline": "2025-04-10T23:59:59Z",
+      "description": "這是一筆測試用活動",
+      "start_time": "2025-04-13T09:00:00Z",
+      "end_time": "2025-04-13T17:00:00Z",
+      "link": "https://example.com/register",
+      "location": "Taipei"
+    },
+    "person_in_charge": "maxwell"
+  }
+  
