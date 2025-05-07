@@ -1,6 +1,0 @@
-aws_region                                    = "us-west-2"
-environment                                   = "local-dev"
-service_underscore                            = "test_service"
-service_hyphen                                = "test-service"
-docker_host = "npipe:////./pipe/docker_engine"
-lambda_architecture                           = "arm64"
